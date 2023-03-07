@@ -1,0 +1,66 @@
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.navbar {
+    border: 1px solid black;
+    width: 100%;
+}
+
+.navbar-brand {
+
+    padding-left: 160px;
+}
+
+.navbar-nav {
+    padding: 0 100px;
+    margin: 0 100px;
+}
+
+.nav-item {
+    padding-left: 100px;
+}
+
+.btn-nav {
+    border-radius: 30px;
+    padding: 8px 17px;
+}
+
+.btn1 {
+    margin-left: 20px;
+}
+
+.jumbotron {
+    margin-top: -80px;
+    height: 87vh;
+    background-position-y: -60px;
+    background-image: url(vecteezy_a-view-of-ocean-waves-crashing-on-a-shore-during-sunset_1432941.jpeg);
+}
+
+.display-4 {
+    padding-top: 170px;
+    font-weight: 900;
+}
+
+.lead {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.lead h5 {
+    font-weight: bold;
+}
+
+.btn-warning {
+    margin-left: 40px;
+}
+
+.text-center {
+    width: 1000px;
+    height: 80px;
+    margin-top: 30px;
+}
